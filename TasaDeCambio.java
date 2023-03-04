@@ -6,6 +6,7 @@ import javax.swing.plaf.basic.BasicInternalFrameTitlePane.CloseAction;
 
 import java.awt.event.*;
 import java.lang.reflect.Constructor;
+import java.lang.reflect.RecordComponent;
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
 
